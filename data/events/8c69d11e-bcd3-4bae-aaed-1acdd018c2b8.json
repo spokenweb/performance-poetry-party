@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "b1ba1480-37fa-45b8-83a7-d81fdbaaeb99": {
+      "label": "Performance Poetry Party",
+      "is_offline": false,
+      "file_url": "https://youtu.be/9FvUcS-PYQw",
+      "duration": 6698,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Video",
+  "label": "Performance Poetry Party",
+  "created_at": "2025-04-16T21:16:17.307Z",
+  "created_by": "spokenweb",
+  "updated_at": "2025-04-16T21:16:17.307Z",
+  "updated_by": "spokenweb"
+}
