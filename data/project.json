@@ -24,11 +24,129 @@
     "auto_populate_home_page": true,
     "additional_users": [],
     "tags": {
-      "tagGroups": [],
-      "tags": []
+      "tagGroups": [
+        {
+          "category": "Performers and Speakers",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Setting and Tech",
+          "color": "#ADFEFF"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Colin Christie",
+          "category": "Performers and Speakers"
+        },
+        {
+          "tag": "Corey Frost",
+          "category": "Performers and Speakers"
+        },
+        {
+          "tag": "Dee Smith",
+          "category": "Performers and Speakers"
+        },
+        {
+          "tag": "Endre Farkas",
+          "category": "Performers and Speakers"
+        },
+        {
+          "tag": "Fluffy Pagan Echoes",
+          "category": "Performers and Speakers"
+        },
+        {
+          "tag": "Fortner Anderson",
+          "category": "Performers and Speakers"
+        },
+        {
+          "tag": "ga press",
+          "category": "Performers and Speakers"
+        },
+        {
+          "tag": "Groupe de Poesie Moderne",
+          "category": "Performers and Speakers"
+        },
+        {
+          "tag": "Hieronymus Borscht Nonet",
+          "category": "Performers and Speakers"
+        },
+        {
+          "tag": "Ian Ferrier",
+          "category": "Performers and Speakers"
+        },
+        {
+          "tag": "Ian Stephens",
+          "category": "Performers and Speakers"
+        },
+        {
+          "tag": "Justin McGrail",
+          "category": "Performers and Speakers"
+        },
+        {
+          "tag": "Lee Gotham",
+          "category": "Performers and Speakers"
+        },
+        {
+          "tag": "Norman Nawrocki",
+          "category": "Performers and Speakers"
+        },
+        {
+          "tag": "Ran Elfassy",
+          "category": "Performers and Speakers"
+        },
+        {
+          "tag": "Sam Shalabi",
+          "category": "Performers and Speakers"
+        },
+        {
+          "tag": "Scott Duncan",
+          "category": "Performers and Speakers"
+        },
+        {
+          "tag": "Swifty Lazar",
+          "category": "Performers and Speakers"
+        },
+        {
+          "tag": "Todd Swift",
+          "category": "Performers and Speakers"
+        },
+        {
+          "tag": "Tom Walsh",
+          "category": "Performers and Speakers"
+        },
+        {
+          "tag": "Unknown_Musician1",
+          "category": "Performers and Speakers"
+        },
+        {
+          "tag": "Unknown_Reader1",
+          "category": "Performers and Speakers"
+        },
+        {
+          "tag": "Victoria Stanton",
+          "category": "Performers and Speakers"
+        },
+        {
+          "tag": "Vincent Tinguely",
+          "category": "Performers and Speakers"
+        },
+        {
+          "tag": "Building Danse stage",
+          "category": "Setting and Tech"
+        },
+        {
+          "tag": "END",
+          "category": "Setting and Tech"
+        },
+        {
+          "tag": "No signal",
+          "category": "Setting and Tech"
+        }
+      ]
     },
     "created_at": "2025-04-16T21:09:36.584Z",
-    "updated_at": "2025-04-16T21:16:17.514Z",
+    "updated_at": "2025-04-16T21:24:21.017Z",
     "generate_pages_site": true
   },
   "annotations": {},
