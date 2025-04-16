@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
+    "github_org": "spokenweb",
+    "is_private": false,
+    "title": "Performance Poetry Party, 1995-03-25",
+    "description": "Event at Building Danse featuring supporting and open mic performances by Hieronymus Borscht Nonet (Sam Shalabi and Unknown_Musician1), Fortner Anderson, Lee Gotham, Ian Ferrier, Endre Farkas, Swifty Lazar (Todd Swift and Tom Walsh), ga press (Colin Christie and Corey Frost), Groupe de Poésie Moderne, Fluffy Pagan Echoes (Ran Elfassy, Victoria Stanton, Scott Duncan, Vince Tinguely, and Justin McGrail), Dee Smith, Norman Nawrocki, and Ian Stephens.",
+    "language": "en",
+    "slug": "performance-poetry-party",
+    "creator": "spokenweb",
     "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-04-16T21:09:36.584Z",
+    "updated_at": "2025-04-16T21:09:36.584Z"
   }
 }
