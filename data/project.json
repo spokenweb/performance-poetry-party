@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "spokenweb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43453642?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "spokenweb",
     "is_private": false,
@@ -22,6 +28,26 @@
       "tags": []
     },
     "created_at": "2025-04-16T21:09:36.584Z",
-    "updated_at": "2025-04-16T21:09:36.584Z"
-  }
+    "updated_at": "2025-04-16T21:09:36.584Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "pages": {
+    "1c4f15f1-b0ca-4ba5-8598-f4169eed6424": {
+      "content": [],
+      "created_at": "2025-04-16T21:09:36.605Z",
+      "created_by": "spokenweb",
+      "title": "Performance Poetry Party, 1995-03-25",
+      "updated_at": "2025-04-16T21:09:36.605Z",
+      "updated_by": "spokenweb",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "1c4f15f1-b0ca-4ba5-8598-f4169eed6424"
+  ]
 }
