@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-08-04T17:42:43.501Z",
+  "created_by": "spokenweb",
+  "title": "test for internet archive videos ",
+  "slug": "test-for-internet-archive-videos",
+  "updated_at": "2025-08-04T17:42:43.501Z",
+  "updated_by": "spokenweb",
+  "parent": "1c4f15f1-b0ca-4ba5-8598-f4169eed6424",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "b43b5c0d-bb24-4e8a-882a-22fe34a0697c"
+  }
+}
